@@ -7,7 +7,7 @@ I am a final Year Student Pursing B.Tech at VIT Bhopal University.
 
 
 <b>Connect with me:</b>
-<a href = "https://www.facebook.com/abishek.r.545">![facebooklogo](https://user-images.githubusercontent.com/88943869/209990657-3db43e1f-915b-454b-bbd7-1a5f0f75a9af.png)</a>
+<a href = "https://www.facebook.com/abishek.r.545">![facebooklogo](https://user-images.githubusercontent.com/88943869/209990657-3db43e1f-915b-454b-bbd7-1a5f0f75a9af.png) style="width:42px;height:42px;"</a>
 <a href = "https://twitter.com/abishekprabaka2">Twitter</a>
 <a href = "https://www.instagram.com/abishek_prabakaran_r/">Instagram</a>
 <a href = "https://github.com/Abijspy">GitHub</a>

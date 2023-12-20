@@ -7,8 +7,7 @@
 - 👨‍🎓 digital portfolio : <a href = "https://abijspy.github.io/">Check this Out..</a>
 
 <b>Connect with me:</b>
-
-
+https://github.com/Abijspy/Abijspy/assets/88943869/78840f2f-420a-4d36-b727-4ce0fea17b3e
 
 
 

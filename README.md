@@ -27,7 +27,7 @@
 
 <h2 align="center"> My Stats </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abijspy&show_icons=true&locale=en" alt="abijspy" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abijspy&show_icons=true&locale=en&layout=compact" alt="abijspy" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abijspy&show_icons=true&locale=en&layout=compact" alt="abijspy" /></p>
 <h2 align="center"> My Streak </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abijspy&" alt="abijspy" /></p>
 

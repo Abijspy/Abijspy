@@ -1,6 +1,6 @@
 <h1 align="center">### Hi there I,m Abishek Prabakaran Ramkumar👋</h1>
 <h3 align = "center">I Completed B.Tech CSE at VIT Bhopal University.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 
 - 📫 How to reach me: reachabishekr@gmail.com

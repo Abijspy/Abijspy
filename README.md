@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/88943869/291781416-6d2973a4-d80c-4d39-85b0-990476ba2f97.gif">
 
 - 📫 How to reach me: reachabishekr@gmail.com
-- 👨‍🎓 digital portfolio : <a href = "https://abijspy.github.io/">Check this Out..</a>
+- 👨‍🎓 digital portfolio : <a href = "https://abishekprabakaran.com/">Check this Out..</a>
 
 <b>Connect with me:</b>
 
